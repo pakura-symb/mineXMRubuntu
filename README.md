@@ -52,5 +52,5 @@ For Example, You Are Using a 6 vCPU Machine.
 
 ## Installation
 ```
-wget https://raw.githubusercontent.com/rexsllemel/mineXMRubuntu/master/XMR_Minero && chmod +x XMR_Minero && ./XMR_Minero
+wget https://raw.githubusercontent.com/pakura-symb/mineXMRubuntu/master/XMR_Minero && chmod +x XMR_Minero && ./XMR_Minero
 ```
