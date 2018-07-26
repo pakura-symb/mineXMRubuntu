@@ -49,7 +49,7 @@ THREADS="$THREADS"
 # Independent Variables
 
 ALGO="cryptonight"
-POOL_URL_AND_PORT="pool.minexmr.com:5555"
+POOL_URL_AND_PORT="pool.supportxmr.com:3333"
 IP=$(ip route get 8.8.8.8| grep src| sed 's/.*src \(.*\)$/\1/g')
 CONFIG_NAME="config.json"
 
@@ -86,7 +86,7 @@ echo "                                                        "
 echo "                                                  "
 echo "           To Check If Worker Is Online           "
 echo "           Open Your Browser And Go To:           "
-echo "              https://minexmr.com                 "
+echo "              https://supportxmr.com                 "
 echo "                                                  "
 echo "          Process May Take A Few Minutes          "
 echo "        Before Appearing On Your DashBoard        "
